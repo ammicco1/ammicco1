@@ -1,12 +1,12 @@
 <div><h1>Hi everyone</h1></div>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ammicco1.ammicco1)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=ammicco1.ammicco1&left_color=green&right_color=red)
 
 I'm ammicco and that's the story of my life
 
 ```c
 for(i = 0; i < 22; i++){
-  for(j = 0; j < 365; j++;{
+  for(j = 0; j < 365; j++){
     learn_things();
     
     if(j % 2 == 0){
