@@ -1,4 +1,4 @@
-@ammicco1
+i'm ammicco and that's the story of my life
 
 ```c
 for(i = 0; i < 22; i++){
