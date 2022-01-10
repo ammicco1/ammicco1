@@ -1,4 +1,6 @@
-<h1 text-align: "center";>Hi everyone</h1>
+<div text-align: "center";><h1>Hi everyone</h1></div>
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=ammicco1.ammicco1)
 
 I'm ammicco and that's the story of my life
 
@@ -13,7 +15,5 @@ for(i = 0; i < 22; i++){
   }
 } 
 ```
-
-<hr>
 
 In human readable language, i'm 22, i learn new things everyday and half of the time i make wrong choise &#127763;
