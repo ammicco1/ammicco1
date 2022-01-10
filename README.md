@@ -1,4 +1,4 @@
-<div align: "center"><h1 color: "yellow">Hi everyone</h1></div>
+<div><h1>Hi everyone</h1></div>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=ammicco1.ammicco1)
 
