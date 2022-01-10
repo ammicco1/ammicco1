@@ -1,8 +1,5 @@
 <div align = "center"><h1>&#128034;Hi everyone&#128034;</h1></div>
-
-<div align="center">
-  ![visitors](https://visitor-badge.glitch.me/badge?page_id=ammicco1.ammicco1)
-</div>
+![visitors](https://visitor-badge.glitch.me/badge?page_id=ammicco1.ammicco1)
 
 I'm ammicco and that's the story of my life
 
