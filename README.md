@@ -1,6 +1,6 @@
-<div align = "center"><h1>Hi everyone</h1></div>
+<div align = "center"><h1>&#128034;Hi everyone&#128034;</h1></div>
 
-<div align="center">![visitors](https://visitor-badge.glitch.me/badge?page_id=ammicco1.ammicco1&right_color=green)</div>
+<div align="center">![visitors](https://visitor-badge.glitch.me/badge?page_id=ammicco1.ammicco1)</div>
 
 I'm ammicco and that's the story of my life
 
