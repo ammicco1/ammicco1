@@ -10,13 +10,13 @@ for(i = 0; i < 23; i++){
     learn_things();
     
     if(j % 2 == 0){
-      make_wrong_choices();
+      make_wrong_choice();
     }
   }
 } 
 ```
 
-In human readable language, i'm 23, i learn new things everyday and half of the time i make wrong choise &#127763;
+In human readable language, i'm 23, i learn new things everyday and half of the time i make wrong choices &#127763;
 
 <h2>Interests <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" height = 32px width = 32px> </h2>
 <div align = "center">
