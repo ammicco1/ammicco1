@@ -10,7 +10,7 @@ for(i = 0; i < 23; i++){
     learn_things();
     
     if(j % 2 == 0){
-      make_wrong_choise();
+      make_wrong_choices();
     }
   }
 } 
