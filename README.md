@@ -8,8 +8,5 @@ I study at university of milan to become a cybersecurity "expert" :/
 <div align = "center">
   <span><img width = "40px" src = "https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg"></span>
   <span><img width = "40px" src = "https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linux.svg"></span>
-  <span><img width = "40px" src = "https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bash.svg"></span>
   <span><img width = "40px" src = "https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg"></span>
 </div>
-
-![Ammicco1's GitHub stats](https://github-readme-stats.vercel.app/api?username=ammicco1&show_icons=true&theme=radical)
