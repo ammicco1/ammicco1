@@ -12,4 +12,4 @@ I study at university of milan to become a cybersecurity "expert" :/
   <span><img width = "40px" src = "https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg"></span>
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/ammicco1/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ammicco1&layout=compact)](https://github.com/ammicco1/)
